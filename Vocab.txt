@@ -1,0 +1,12 @@
+SIP     [1] Session Initiation Protocol. Described in RFC 3261.  But I need more content to make this screen wrap like this!
+MEGAGO  [2] Media Gateway Control Protocol or H.248
+SDP     [1] Session Description Protocol
+SGW     [4] Signal Gateway
+CSCF    [5] Session Initiation Protocol. Described in RFC 3261.  But I need more content to make this screen wrap like this!
+Bing    [1] Media Gateway Control Protocol or H.248
+Nova    [1] Avon spelled backwards
+Neutron [4] Once a neutron asked a proton if he was sure the world was round and the proton answered, "I'm postive."
+Hello   [3] I don't know why you say goodby I say hello!
+Bones   [3] He's dead Jim
+DHCP    [1] Session Description Protocol
+SDN     [4] Signal Gateway
